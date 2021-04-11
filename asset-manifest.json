@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/develop-me--tech-challenge/static/css/main.ce3e53c8.chunk.css",
+    "main.js": "/develop-me--tech-challenge/static/js/main.c343c5f7.chunk.js",
+    "main.js.map": "/develop-me--tech-challenge/static/js/main.c343c5f7.chunk.js.map",
+    "runtime-main.js": "/develop-me--tech-challenge/static/js/runtime-main.c17e9535.js",
+    "runtime-main.js.map": "/develop-me--tech-challenge/static/js/runtime-main.c17e9535.js.map",
+    "static/js/2.4c200c68.chunk.js": "/develop-me--tech-challenge/static/js/2.4c200c68.chunk.js",
+    "static/js/2.4c200c68.chunk.js.map": "/develop-me--tech-challenge/static/js/2.4c200c68.chunk.js.map",
+    "static/js/3.dd5f38ba.chunk.js": "/develop-me--tech-challenge/static/js/3.dd5f38ba.chunk.js",
+    "static/js/3.dd5f38ba.chunk.js.map": "/develop-me--tech-challenge/static/js/3.dd5f38ba.chunk.js.map",
+    "index.html": "/develop-me--tech-challenge/index.html",
+    "static/css/main.ce3e53c8.chunk.css.map": "/develop-me--tech-challenge/static/css/main.ce3e53c8.chunk.css.map",
+    "static/js/2.4c200c68.chunk.js.LICENSE.txt": "/develop-me--tech-challenge/static/js/2.4c200c68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c17e9535.js",
+    "static/js/2.4c200c68.chunk.js",
+    "static/css/main.ce3e53c8.chunk.css",
+    "static/js/main.c343c5f7.chunk.js"
+  ]
+}
