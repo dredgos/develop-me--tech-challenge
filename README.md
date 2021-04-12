@@ -1,6 +1,8 @@
 # Ping Pong Tournament
 
-Welcome to Microsoft's newest (unofficial & unendorsed) addition to the MS office suite - MS Tournament (ping pong edition)!
+Welcome to Microsoft's newest (unofficial & unendorsed) addition to the MS office suite - MS Tournament (ping pong edition)! 
+
+Check it out here: https://dredgos.github.io/develop-me--tech-challenge/
 
 This app allows users to add names to the competitors list and when the total competitors is a power of 2 and greater than 4 it will generate a tournament bracket. Each game can have a winner selected and once all games are locked in the tournament shows the next round of games, this sequence continues until there is a tournament winner.
 
